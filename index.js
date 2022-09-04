@@ -1,6 +1,7 @@
 index version 1.0
 
 var text = prompt('Enter your text', ''); // Message text
+var char_value = [[A = '01000001'],[a = '01100001'], [B = '01000010'], [b = '01100010']]
 var char = text.split([]);
 var pass = prompt('Enter your password', ''); // Password
 var pin1 = prompt('Insert the first pin with 2 digits', ''); // First multiplier digit 
