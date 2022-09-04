@@ -1,3 +1,5 @@
+index version 1.0
+
 var text = prompt('Enter your text', ''); // Message text
 var pass = prompt('Enter your passwowrd', ''); // Passwordw
 var pin1 = prompt('Insert the first pin with 2 digits', ''); // First multiplier digit 
