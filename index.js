@@ -12,12 +12,14 @@ var pin4 = prompt('insert the fourth pin with 2 digits', ''); // Fourth multipli
 
 
 /*/------Update 5 Set 11:42 am----/*/
-const char = ["A"]
-const index = char.indexOf("A");
-if (index !== -1) {
-    char[index] = "01000001";
+const qokquysgqyauzikqoakz = ["A", "a",]
+const sxsqokqvberqhmc0uebvgyvr = qokquysgqyauzikqoakz.indexOf("A");
+if (sxsqokqvberqhmc0uebvgyvr !== -1) {
+    qokquysgqyauzikqoakz[sxsqokqvberqhmc0uebvgyvr] = "01000001";
 }
 
-
-char
+const eycgyshqixoxpwoiejcwpwwpeo = qokquysgqyauzikqoakz.indexOf("a");
+if (eycgyshqixoxpwoiejcwpwwpeo !== -1) {
+    qokquysgqyauzikqoakz[eycgyshqixoxpwoiejcwpwwpeo] = "01100001";
+}
 /*/-------------------------------/*/
