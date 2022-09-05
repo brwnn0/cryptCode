@@ -12,7 +12,7 @@ var pin4 = prompt('insert the fourth pin with 2 digits', ''); // Fourth multipli
 
 
 /*/------Update 5 Set 11:42 am----/*/
-const char = ["A", "0",]
+const char = ["A"]
 const index = char.indexOf("A");
 if (index !== -1) {
     char[index] = "01000001";
