@@ -10,6 +10,8 @@ var pin2 = prompt('Insert the second pin with 2 digits', ''); // Second multipli
 var pin3 = prompt('insert the third pin with 2 digits', ''); // Third multiplier digit 
 var pin4 = prompt('insert the fourth pin with 2 digits', ''); // Fourth multiplier digit 
 
+
+/*/------Update 5 Set 11:42 am----/*/
 const char = ["A", "0",]
 const index = char.indexOf("A");
 if (index !== -1) {
@@ -18,3 +20,4 @@ if (index !== -1) {
 
 
 char
+/*/-------------------------------/*/
