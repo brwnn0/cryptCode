@@ -1,4 +1,4 @@
-# cryptCode
+# cryptCode - open source
 Simple script for encrypt messages
 
 encrypt
