@@ -23,3 +23,7 @@ if (eycgyshqixoxpwoiejcwpwwpeo !== -1) {
     qokquysgqyauzikqoakz[eycgyshqixoxpwoiejcwpwwpeo] = "01100001";
 }
 /*/-------------------------------/*/
+
+var.charCodeAt(); - Char code retorna o utf16 code do char:
+var.split();
+Number(var).toString(2);
