@@ -24,6 +24,6 @@ if (eycgyshqixoxpwoiejcwpwwpeo !== -1) {
 }
 /*/-------------------------------/*/
 
-var.charCodeAt(); - Char code retorna o utf16 code do char:
+var.charCodeAt(); 
 var.split();
 Number(var).toString(2);
