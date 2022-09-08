@@ -12,3 +12,6 @@ encrypt
 decryption
 ❌✅Perform some calculation and generate some result
 ❌ Replace characters with corresponding binary values
+
+contact:
+brwnnobrwnno@gmail.com
